@@ -63,15 +63,18 @@ Rate-AI is a system that provides more accurate and consistent ratings by analyz
 ## Technical Requirements
 
 | Technology   | Version |
-|-------------|---------|
-| Python      | 3.9     |
-| TensorFlow  | 2.10.0  |
-| CUDA        | 11.8    |
-| CuDNN       | 8.6     |
-| SQLite      | 3.32.3  |
-| PyQt5       | 5.15.11 |
+|--------------|---------|
+| Python       | 3.9     |
+| TensorFlow   | 2.10.0  |
+| CUDA         | 11.8    |
+| CuDNN        | 8.6     |
+| SQLite       | 3.32.3  |
+| PyQt5        | 5.15.11 |
 
 ### Installation Requirements
 - NVIDIA GPU (for CUDA support)
 - Minimum 4GB RAM
 - Windows/Linux operating system
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for more details.
